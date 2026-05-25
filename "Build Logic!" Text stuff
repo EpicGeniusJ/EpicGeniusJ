@@ -1,0 +1,7 @@
+This will be updated.
+This can be used in HTML.
+<font color="#hexval">Colored</font>
+<font face="FontName">Different font</font>
+<font color="#hexval" face="FontName">Font and colored text</font> 
+<i>Italic text</i>
+<b>Bold Text</b>
